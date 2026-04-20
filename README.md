@@ -4,7 +4,7 @@
 Understand strong password creation and evaluate password security.
 
 ## Tool Used
-Passwordmeter.com
+Password Tester
 
 ## Steps
 1. Created multiple passwords
